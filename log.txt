@@ -1,0 +1,11 @@
+commit d74dd52fb7c1c821b12d3e5272cee0db1f6cbb54 (HEAD -> logging, origin/master, master)
+Author: Kristina Bazgaloska <kristina.bazgaloska@gmail.com>
+Date:   Thu Mar 21 10:37:46 2019 +0100
+
+    modify l1.txt
+
+commit 8c62a817aee89b191cd3ee18b3173448c89d7f37
+Author: Kristina Bazgaloska <kristina.bazgaloska@gmail.com>
+Date:   Thu Mar 21 10:36:02 2019 +0100
+
+    Initial commit
